@@ -1,0 +1,1 @@
+def generate_random_processes(count: int = 5, max_arrive: int = 10, max_burst: int = 8) -
